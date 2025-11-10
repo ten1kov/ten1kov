@@ -5,7 +5,7 @@
     ten1kov_dev
   </span>
   <a href="https://">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg" align="center" style="vertical-align: middle; margin-right: 10px;"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" align="center" style="vertical-align: middle; margin-right: 10px;"/>
   </a>
 </h1>
 </div>
