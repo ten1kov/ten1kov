@@ -10,18 +10,6 @@
   <tr>
     <th colspan="2" style="text-align: center; padding: 24px 0 16px; font-size: 22px; font-weight: 600; letter-spacing: 0.5px;">About me</th>
   </tr>
-  <tr>
-    <td style="vertical-align: middle; text-align: left; padding: 24px 32px; line-height: 1.6;">
-      <ul style="margin: 0; padding-left: 20px; list-style: none; font-size: 16px;">
-        <li style="padding: 8px 0; color: #a0a0c0;">ɪ ᴄᴏᴅᴇ (sᴏᴍᴇᴛɪᴍᴇs)</li>
-        <li style="padding: 8px 0; color: #a0a0c0;">ɪ ɢᴏᴛ ᴍᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ʀᴇᴘᴏs ᴛʜᴀɴ ʙʀᴀɪɴᴄᴇʟʟs</li>
-        <li style="padding: 8px 0; color: #a0a0c0;">🐈 <span style="vertical-align: middle;">cat enthusiast</span></li>
-      </ul>
-    </td>
-    <td style="vertical-align: middle; padding-right: 32px; text-align: center;">
-      <img src="https://avatars.githubusercontent.com/u/130915244?v=4" width="120" style="border-radius: 50%; border: 4px solid #2e2f38; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
-    </td>
-  </tr>
 </table>
 
 <p align="center" style="margin: 30px 0 10px;">
