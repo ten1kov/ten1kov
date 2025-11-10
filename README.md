@@ -58,7 +58,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ten1kov&theme=radical" height="180" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ten1kov&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ten1kov&show_icons=true&theme=radical&bg_color=1e1f26&title_color=ff00cc&text_color=c9d1d9" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ten1kov&show_icons=true&theme=radical" height="180" />
 </p>
 
 </div>
