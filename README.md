@@ -1,16 +1,12 @@
 <div align="center">
 
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="750" height="500"></p>
+
 <h1 align="center">
   <span style="background: linear-gradient(to right, #ff00cc, #3333ff, #00ccff); -webkit-background-clip: text; background-clip: text; color: transparent; display: inline-block; font-weight: 800; font-size: 2.8rem; letter-spacing: -0.5px;">
     ten1kov_dev
   </span>
 </h1>
-
-<table align="center" border="0" style="border: none; border-collapse: collapse; font-family: 'Segoe UI', Arial, sans-serif; max-width: 580px; box-shadow: 0 8px 24px rgba(0,0,0,0.15); border-radius: 16px; overflow: hidden; background: linear-gradient(135deg, #1e1f26 0%, #14151a 100%); color: #f0f0f5; margin-top: 20px;">
-  <tr>
-    <th colspan="2" style="text-align: center; padding: 24px 0 16px; font-size: 22px; font-weight: 600; letter-spacing: 0.5px;">About me</th>
-  </tr>
-</table>
 
 <p align="center" style="margin: 30px 0 10px;">
   <!-- Languages -->
