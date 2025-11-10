@@ -2,11 +2,10 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="650" height="500"></p>
 
-<h1 align="center">
-  <span style="background: linear-gradient(to right, #ff00cc, #3333ff, #00ccff); -webkit-background-clip: text; background-clip: text; color: transparent; display: inline-block; font-weight: 800; font-size: 2.8rem; letter-spacing: -0.5px;">
-    ten1kov_dev
-  </span>
-</h1>
+<p align="center">
+    <h1 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=800&color=FF8000&background=FFFFFF00&center=true&random=false&width=435&lines=HELLO+EVERYONE!;I'M+-+TEN1KOV;FULL+STACK+DEVELOPER" alt="HELLO EVERYONE! I'M - TEN1KOV FULL-STACK DEVELOPER" />
+    </h1>
 
 <p align="center" style="margin: 30px 0 10px;">
   <!-- Languages -->
