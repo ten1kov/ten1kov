@@ -4,9 +4,6 @@
   <span style="background: linear-gradient(to right, #ff00cc, #3333ff, #00ccff); -webkit-background-clip: text; background-clip: text; color: transparent; display: inline-block; font-weight: 800; font-size: 2.8rem; letter-spacing: -0.5px;">
     ten1kov_dev
   </span>
-  <a href="https://t.me/ten1kov" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" align="center" style="vertical-align: middle; margin-left: 12px; width: 32px; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));"/>
-  </a>
 </h1>
 
 <table align="center" border="0" style="border: none; border-collapse: collapse; font-family: 'Segoe UI', Arial, sans-serif; max-width: 580px; box-shadow: 0 8px 24px rgba(0,0,0,0.15); border-radius: 16px; overflow: hidden; background: linear-gradient(135deg, #1e1f26 0%, #14151a 100%); color: #f0f0f5; margin-top: 20px;">
