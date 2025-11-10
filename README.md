@@ -29,12 +29,7 @@
 
 <p align="center" style="margin: 30px 0 10px;">
   <!-- Languages -->
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg" height="40" /></a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg" height="40" /></a>
-  <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp3.svg" height="40" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" height="40" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg" height="40" /></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" height="40" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg" height="40" /></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" height="40" /></a>
