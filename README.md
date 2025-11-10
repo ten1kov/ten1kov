@@ -1,6 +1,6 @@
 <div align="center">
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="750" height="500"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="550" height="500"></p>
 
 <h1 align="center">
   <span style="background: linear-gradient(to right, #ff00cc, #3333ff, #00ccff); -webkit-background-clip: text; background-clip: text; color: transparent; display: inline-block; font-weight: 800; font-size: 2.8rem; letter-spacing: -0.5px;">
